@@ -2,7 +2,15 @@
 
 - 🔭 I’m currently working on landing my first job in software engineering! 
 
-- 🌱 I’m currently learning React Native, Material UI, 
+- 🌱 I’m currently learning React Native, Material UI, and how to cut my own hair 🤣
+
+- 🥅 2020 Goals: Be more confident in my skills!
+
+- 💬 Ask me about my time as an outdoor reacreation guide, the head route setter at UCSD's climbing gym, my lack of jiu-jitsu skills, or anything else!
+
+- 🙂 Pronouns: He/Him
+
+- ⚡ Fun fact: I'm an INFP-T 
 
 ### Connect with me:
 
@@ -30,14 +38,11 @@
 
 Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 -->
 
 [linkedin]: https://linkedin.com/in/erickimosilva
