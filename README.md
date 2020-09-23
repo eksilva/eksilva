@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedin]: https://linkedin.com/in/eksilva
+[linkedin]: https://linkedin.com/in/erickimosilva
