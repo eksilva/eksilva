@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on landing my first job in software engineering! 
 
-- 🌱 I’m currently learning React Native, Material UI, and how to cut my own hair 🤣
+- 🌱 I’m currently learning React Redux and how to cut my own hair 🤣
 
-- 🥅 2020 Goals: Be more confident in my skills!
+- 🥅 2021 Goals: Be more confident in my skills!
 
 - 💬 Ask me about my time as an outdoor reacreation guide, the head route setter at UCSD's climbing gym, my lack of jiu-jitsu skills, or anything else!
 
