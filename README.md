@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on landing my first job in software engineering! 
 
-- 🌱 I’m currently learning React Redux and how to cut my own hair 🤣
+- 🌱 I’m currently learning how to be a great application support engineer and adjusting to life in Austin, Texas 🤠
 
 - 🥅 2021 Goals: Be more confident in my skills!
 
